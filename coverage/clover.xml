@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1677677111825" clover="3.2.0">
-  <project timestamp="1677677111825" name="All files">
+<coverage generated="1677678387240" clover="3.2.0">
+  <project timestamp="1677678387240" name="All files">
     <metrics statements="5" coveredstatements="5" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1" elements="7" coveredelements="7" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
     <file name="sum.ts" path="/home/danielvitor/Documentos/Develop/TestingGithubActionsWithNode/src/sum.ts">
       <metrics statements="5" coveredstatements="5" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
